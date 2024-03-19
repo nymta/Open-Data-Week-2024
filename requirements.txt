@@ -1,0 +1,17 @@
+# Base Packages
+# -------------
+pandas==1.5.3
+
+# Configuration Handling
+# ----------------------
+pyyaml==6.0
+
+# Code Quality
+# ------------
+black
+flake8
+
+requests~=2.28.1
+numpy~=1.24.2
+python-dateutil~=2.8.2
+apiclient~=1.0.4
